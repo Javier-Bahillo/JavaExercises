@@ -1,5 +1,13 @@
+# IntelliJ
 .idea/
 *.iml
+
+# Build
 out/
 target/
+
+# Compiled files
 *.class
+
+# Logs
+*.log
