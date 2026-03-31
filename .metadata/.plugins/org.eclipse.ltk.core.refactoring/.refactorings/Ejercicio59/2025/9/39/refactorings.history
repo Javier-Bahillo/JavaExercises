@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;CuentaCorriente.gestor&apos; in &apos;CuentaCorriente&apos;&#x0D;&#x0A;- Original project: &apos;Ejercicio59&apos;&#x0D;&#x0A;- Original element: &apos;CuentaCorriente.gestor&apos;&#x0D;&#x0A;- Getter method name: &apos;getGestor&apos;&#x0D;&#x0A;- Setter method name: &apos;setGestor&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;gestor, ...&apos;" flags="589830" getter="getGestor" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;{CuentaCorriente.java[CuentaCorriente^gestor" insertion="13" setter="setGestor" stamp="1758622716048" version="1.0" visibility="1"/>
+</session>

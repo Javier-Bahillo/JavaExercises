@@ -1,0 +1,20 @@
+
+public class MenuDias {
+
+	public static void main(String[] args) {
+		 /*
+		  * 2.Realiza la clase Java Menudias que lee por teclado un carácter y
+		  *  muestra el día de la semana que le	corresponde según la siguiente tabla
+			L Lunes
+			M Martes
+			X Miércoles
+			J Jueves
+			V Viernes
+			S Sábado
+			D Domingo
+			Otro Carácter ERROR
+		  */
+
+	}
+
+}
